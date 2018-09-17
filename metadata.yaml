@@ -1,5 +1,8 @@
 _repo: Ames-dormantes_52379
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52379-h/images/cover.jpg
 creator:
   author:
     agent_name: Melegari, Dora
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '46829'
     url: http://www.gutenberg.org/2009/agents/46829
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52379#Ames-dormantes
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2016-06-19'
 gutenberg_type: Text
